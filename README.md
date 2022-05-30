@@ -8,7 +8,7 @@ Dia 1 - 01/06/2022
 
 Dia 2 - 02/06/2022
 - [Lab. #3 - Devops e Functions]
-- [Lab. #4 - Kubernetes]
+- [Lab. #4 - Oracle Database with Python]
 
 Dia 3 - 03/06/2022
 - [Lab. #5 - Heatwave and MySQL]
