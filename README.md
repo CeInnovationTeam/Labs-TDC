@@ -3,7 +3,7 @@ Repositório com todos os laboratórios apresentados no TDC
 
 Dia 1 - 01/06/2022
 
-- [Lab. #1 - Functions Serverless]
+- [Lab. #1 - Functions Serverless] (https://github.com/CeInnovationTeam/Labs-TDC.wiki.git)
 - [Lab. #2 - GraalVM]
 
 Dia 2 - 02/06/2022
