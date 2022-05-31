@@ -241,10 +241,10 @@ Após alguns segundos, o console deve mostrar uma saída json como abaixo.
 ![](./images/img26.png)
  
 
-LAB 3/3 –  10 minutos (opcional)
+### LAB 3/3 –  10 minutos (opcional)
 É recomendado liberar os recursos criados para não consumir créditos da sua conta de teste
 
-PASSO 1  - Liberando recursos do ORM 
+### PASSO 1  - Liberando recursos do ORM 
 
 1.	Abra o menu de navegação e clique em Developer Services. Em Gerenciador de Recursos, clique em Pilhas (Stack).
 2.	Escolha o compartimento usado se você não tiver selecionado antes. A página é atualizada para exibir apenas os recursos nesse compartimento.
@@ -256,14 +256,15 @@ PASSO 1  - Liberando recursos do ORM
 8.	Para visualizar os logs do trabalho, clique no nome do trabalho para exibir a página Detalhes do trabalho e clique em Logs em Recursos.
 9.	No final, a tarefa Destruir é bem-sucedida e seus recursos foram liberados.
 10.	Você pode voltar para a página Detalhes da pilha e excluir a pilha clicando em Mais ações -> Excluir pilha e clique novamente para confirmar sua ação.
-PASSO 2: Excluir provedor de origem de configuração do ORM
+
+### PASSO 2: Excluir provedor de origem de configuração do ORM
 
 1.	A próxima etapa é excluir o GitHub Configuration Source Provider no Oracle Resource Manager.
 2.	No menu do lado esquerdo, em Resource Manager, clique em Configuration Source Providers.
 3.	Clique no nome do provedor de origem de configuração que você deseja excluir - GitHub.
 4.	Clique em Excluir provedor de origem de configuração e confirme a ação.
 
-PASSO 3 - Valide os recursos de tenacy e exclua os recursos restantes.
+### PASSO 3 - Valide os recursos de tenacy e exclua os recursos restantes.
 
 1.	Idealmente, uma vez concluídas as tarefas acima, deve-se limpar os recursos dentro do compartimento cicd. Mas não limpará nada se houver alguns recursos criados fora do laboratório.
 
