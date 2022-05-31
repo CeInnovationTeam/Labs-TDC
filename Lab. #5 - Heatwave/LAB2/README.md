@@ -20,6 +20,6 @@ Agora, na seção de recursos, clique na seção “Endpoint” e anote o endere
 
 ![_](./Images/IMG_004.PNG)
 
-**Nota:**Nesta fase temos nosso MySQL Database System Ativo e o HeatWave Cluster também está habilitado.
+**Nota:** Nesta fase temos nosso MySQL Database System Ativo e o HeatWave Cluster também está habilitado.
 
 
