@@ -20,6 +20,7 @@ Faça login no console OCI, navegue até o menu Databases e clique em DB Systems
 ![_](./Images/IMG_001.PNG)
 
 Clique em "Create MySQL DB System"
+
 ![_](./Images/IMG_002.PNG)
 
 Selecione Compartimento e logo em seguida selecione “HeatWave” nas opções.
