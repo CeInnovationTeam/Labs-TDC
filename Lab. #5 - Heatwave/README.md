@@ -30,6 +30,7 @@ Forneça nome de usuário/senha, confirme a senha e selecione Virtual Cloud Netw
 ![_](./Images/IMG_004.PNG)
 
 Selecione Domínio de Disponibilidade conforme sua escolha e selecione “MySQL.HeatWave.VM.Standard.E3”. Se você deseja alterar a forma da instância, clique no botão “Alterar forma”.
+
 ![_](./Images/IMG_005.PNG)
 
 Especifique o tamanho do armazenamento e habilite backups automatizados e clique em “Criar” para iniciar o processo de criação.
