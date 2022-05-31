@@ -17,7 +17,8 @@ Clique em "Create MySQL DB System"
 Selecione Compartimento e logo em seguida selecione “HeatWave” nas opções.
 ![_](./Images/IMG_003.PNG)
 
-Forneça nome de usuário/senha, confirme a senha e selecione Virtual Cloud Network (VCN)
+Forneça nome de usuário/senha, confirme a senha e selecione Virtual Cloud Network (VCN), caso não possua VCN você pode criar seguindo o passo a passo [Aqui](https://docs.oracle.com/pt-br/iaas/Content/GSG/Tasks/creatingnetwork.htm#Creating_a_Virtual_Cloud_Network)
+
 ![_](./Images/IMG_004.PNG)
 
 Selecione Domínio de Disponibilidade conforme sua escolha e selecione “MySQL.HeatWave.VM.Standard.E3”. Se você deseja alterar a forma da instância, clique no botão “Alterar forma”.
