@@ -41,6 +41,6 @@ Depois que a instância for iniciada, ela ficará ativa em alguns minutos. No en
 
 ![_](./Images/IMG_007.PNG)
 
-**Nota**: Nota: Nesta fase, aprendemos como criar o MySQL Database System. No entanto, o HeatWave Engine ainda está desabilitado. Para habilitar o mecanismo HeatWave, prosseguiremos para a próxima tarefa.
+**Nota**: Nesta fase, aprendemos como criar o MySQL Database System. No entanto, o HeatWave Engine ainda está desabilitado. Para habilitar o mecanismo HeatWave, prosseguiremos para a próxima tarefa.
 
 ## 2. Ativando o cluster HeatWave no sistema de banco de dados MySQL
