@@ -25,7 +25,7 @@
 
 6. Clique em Review and Create em seguida, clique em Create e aguarde;
 
-7. Acesse o menu OIC > Computar > Instâncias;
+7. Acesse o menu OCI > Compute > Instâncias;
 
 8. Clique em Criar Instância;
 
