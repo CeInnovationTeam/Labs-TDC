@@ -24,6 +24,10 @@ Dentro de alguns minutos você deve ter sua VM ativa
 
 ![_](./Images/IMG_006.png)
 
+**Nota:** Agora que temos a VM provisionada, no próximo laboratório Carregaremos os dados no MySQL HeatWave Cluster Engine
 
+[Retornar para o LAB2](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB2)
+
+[Avançar para o LAB4](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB4)
 
 
