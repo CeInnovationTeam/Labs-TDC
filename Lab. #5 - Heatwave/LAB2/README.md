@@ -26,6 +26,10 @@ Agora, na seção de recursos, clique na seção “Endpoint” e anote o endere
 
 [Avançar para o LAb3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB3)
 
+**Nota:** Agora que temos a VM provisionada, no próximo laboratório Carregaremos os dados no MySQL HeatWave Cluster Engine
 
+[Retornar para o LAB2](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB2)
+
+[Avançar para o LAB4]()
 
 
