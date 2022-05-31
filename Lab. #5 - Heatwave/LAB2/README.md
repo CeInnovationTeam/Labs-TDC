@@ -1,0 +1,1 @@
+## Ativando o cluster HeatWave no sistema de banco de dados MySQL
