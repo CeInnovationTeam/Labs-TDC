@@ -20,6 +20,10 @@ Em seguida salve as chaves SShs Privadas e Públicas e clique em Create
 
 ![_](./Images/IMG_005.png)
 
+Dentro de alguns minutos você deve ter sua VM ativa
+
+![_](./Images/IMG_006.png)
+
 
 
 
