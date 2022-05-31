@@ -36,3 +36,5 @@ Depois que a instância for iniciada, ela ficará ativa em alguns minutos. No en
 
 [Retornar](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave)
 
+[Avançar para o Lab 2](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB2)
+
