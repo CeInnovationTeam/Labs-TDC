@@ -52,7 +52,7 @@ Agora você pode prosseguir para o próximo laboratório.
 
 [Retornar para o LAB3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB3)
 
-[Avançar para o LAB5]()
+[Avançar para o LAB5](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB5)
 
 
 
