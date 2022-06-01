@@ -6,7 +6,9 @@ Este laboratório orientará você nas etapas para fazer upload de dados no Heat
 
 O primeiro passo é acessar a VM, para fazer isso basta abrir o Git Bash e digitar o seguinte comando:
 
-´ssh -i <chave-privada> opc@<IP-Publico>´
+`ssh -i <chave-privada> opc@<IP-Publico>`
+
+
 
 
 
