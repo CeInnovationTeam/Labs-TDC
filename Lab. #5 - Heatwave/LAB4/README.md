@@ -50,6 +50,10 @@ Após a execução bem-sucedida do código acima, você verá o carregamento de 
 
 Agora você pode prosseguir para o próximo laboratório.
 
+[Retornar para o LAB3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB3)
+
+[Avançar para o LAB5]()
+
 
 
 
