@@ -14,6 +14,8 @@ Instale o MySQL Shell:
 
 Uma vez que já habilitamos o MySQL HeatWave Cluster Database System e anotamos o endereço IP do Endpoint do nosso MySQL Database System.
 
+![_](./Images/IMG_001.PNG)
+
 você pode executar diretamente o comando `wget https://downloads.mysql.com/docs/airport-db.tar.gz` para baixar o arquivo “airport-db.tar.gz” no local especificado.
 
 Agora descompacte o arquivo “airport-db.tar.gz” executando o comando `tar -xf airport-db.tar.gz` da sua máquina Compuete onde você baixou este arquivo.
