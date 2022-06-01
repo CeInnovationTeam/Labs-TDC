@@ -29,7 +29,7 @@ Agora, da execução acima, podemos ver que a consulta levou aprox. 0,0237 segun
 
 Para verificar o mesmo, executaremos novamente o comando Explain para ver que a consulta está usando o mecanismo MySQL normal e não o mecanismo HeatWave Cluster.
 
-`Explan select count(*) from weatherdata where log_date > DATE '2005-01-01'group by log_date order by log_date\G`
+`Explain select count(*) from weatherdata where log_date > DATE '2005-01-01'group by log_date order by log_date\G`
 
 ![_](./Images/IMG_004.PNG)
 
