@@ -10,7 +10,7 @@ O primeiro passo é acessar a VM, para fazer isso basta abrir o Git Bash e digit
 
 Instale o MySQL Shell:
 
-`sudo apt-get install mysql-shell`
+`sudo yum install mysql-shell`
 
 Uma vez que já habilitamos o MySQL HeatWave Cluster Database System e anotamos o endereço IP do Endpoint do nosso MySQL Database System.
 
