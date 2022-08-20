@@ -1,4 +1,4 @@
-﻿## Desafio 02 - Crie sua Function e configure o ambiente de Cloud Shell
+﻿## Desafio 01/Parte 2 - Crie sua Function e configure o ambiente de Cloud Shell
 
  O objetivo desse desafio é criar nossa primeira aplicação na plataforma functions, onde faremos o deploy da função responsável por coletar e enviar o conteúdo de um arquivo em object storage. Também utilizaremos o recurso de Cloud Shell para gerenciar/testar nossa função.
  Para essa tarefa utilizaremos os seguintes recursos:
