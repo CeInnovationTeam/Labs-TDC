@@ -1,4 +1,4 @@
-﻿## Desafio 1 - Prepare o seu ambiente com Resource Manager!
+﻿## Desafio 01/Parte 01 - Prepare o seu ambiente com Resource Manager!
 Nesse desafio prepararemos a infraestrutura base, onde criaremos os seguintes serviços:
 
  - **Compartimento:** Separação lógica de recursos dentro da cloud. O compartimento tem função fundamental no controle de políticas de acesso, governança, e controle de custos dentro da tenancy:[https://docs.oracle.com/pt-br/iaas/Content/Identity/Tasks/managingcompartments.htm](https://docs.oracle.com/pt-br/iaas/Content/Identity/Tasks/managingcompartments.htm)
