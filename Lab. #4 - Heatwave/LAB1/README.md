@@ -1,11 +1,11 @@
 
-Neste laboratório você aprenderá a:
+Neste desafio você aprenderá a:
  - Provisionar o sistema de banco de dados MySQL no Oracle Cloud
  - Habilitar o cluster HeatWave no banco de dados MySQL
  - Carregar dados de amostra no cluster HeatWave
  - Executar consultas SQL para ver a diferença de desempenho e tempo de execução
 
-## 1. Criando o  MySQL Database System na Oracle Cloud
+## 1. Crie o  MySQL Database System na Oracle Cloud
 
 Faça login no console OCI, navegue até o menu Databases e clique em DB Systems no MySQL.
 ![_](./Images/IMG_001.PNG)
