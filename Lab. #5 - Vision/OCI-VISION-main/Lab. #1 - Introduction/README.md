@@ -5,14 +5,14 @@ Os recursos do serviço Vision são divididos tematicamente entre:
 - Document AI(para imagens centradas em documentos)
 - Image Analysis(para imagens baseadas em objetos e cenas)
 
-## Objetivos do laborátorio:
+## Objetivos deste desafio:
 
  - Deixar você familiarizado com a console do OCI e capaz de demonstrar os principais recursos do Vision
  - Fazer com que você saiba treinar uma classificação de imagem ou modelo de detecção de objetos por meio da console do OCI.
 
- ### 1. Carregamento dos dados para o Object Storage
+ ### 1. Carregue os dados para o Object Storage
 
- ### Criar um Bucket no Object Storage
+ ### Crie um Bucket no Object Storage
 
  Primeiro, no menu OCI Services, clique em Object Storage.
 
@@ -33,7 +33,7 @@ Em seguida, clique em Criar
 
 ![_](./Images/IMG_004.PNG)
 
-### 2. Carregar arquivos de imagem no bucket de armazenamento
+### 2. Carregue arquivos de imagem no bucket de armazenamento
 
  - clique no nome do bucket
  - A janela de detalhes deve estar visível. Clique em Carregar
@@ -64,7 +64,7 @@ Classificação do idioma | Classifica o idioma do documento com base em recurso
 Extração de tabela | Extrai conteúdo em formato tabular, mantendo as relações linha/coluna das células | Alterne para a guia Tabela para obter informações da tabela [Referência](https://oracle.github.io/learning-library/oci-library/oci-hol/oci-artificial-intelligence/ai-vision/analyze-vision/images/table-extraction.png)
 Saída PDF pesquisável | Incorpora uma camada transparente em cima da imagem do documento em formato PDF para torná-lo pesquisável por palavras-chave | Você precisa testar em um documento PDF para usar esse recurso. Quando você selecionar um PDF, o botão PDF pesquisável poderá ser clicado. Clicar nele fará o download de um PDF OCR para o seu computador. [Referência](https://oracle.github.io/learning-library/oci-library/oci-hol/oci-artificial-intelligence/ai-vision/analyze-vision/images/searchable-pdf-output.png)
 
-### 4 . Usar recursos de análise de imagem
+### 4 . Use recursos de análise de imagem
 
 Na página do Vision, selecione "Classificação de imagem" ou "Detecção de objeto" no menu de navegação à esquerda e forneça uma imagem do armazenamento local ou do armazenamento de objetos OCI. Isso invoca a API analyzeImage depois que a imagem é fornecida.
 
