@@ -1,14 +1,14 @@
 ### Automatizando o ciclo de vida do software com OCI devops e funções OCI.
 ### Tempo estimado: 60 minutos (3 PARTES)
-### LAB 1/3 – 30 minutos
+### Desafio 1/3 – 30 minutos
 ### *Objetivos* 
 -	Provisionamento de infraestrutura usando IaC e OCI Resource Manager.
--	Implatação de aplicativo python no OCI Functions.
+-	Implantação de aplicativo python no OCI Functions.
 -	Implantação com uso de funções padrões e customizadas do docker images. 
 
 ![](./images/img1.png)
 
-## *Parte 1 – provisionamento da infra*
+## *Provisionamento da infra*
 
 ### PASSO 1 – Criar o compartment
 1.	Vá para o Menu de Navegação (também conhecido como menu "Hamburger" no canto superior esquerdo da página) -> Identidade e Segurança -> Identidade -> Compartimentos 
@@ -124,7 +124,7 @@ Depois disso, se você quiser fazer alguma alteração nas variáveis, você pod
 
 *Observação:* em caso de problemas de cota/limite de serviço/permissão, o trabalho de aplicação falhará e os recursos parciais serão provisionados. Clique no botão Destruir para acionar o trabalho para remover recursos provisionados.
 
-### LAB 2/3 – 30 MINUTOS
+### Desafio 2/3 – 30 MINUTOS
 *Objetivos*
 -	Validar os componentes de devops da OCI.
 -	Validar os componentes da função OCI.
@@ -198,7 +198,7 @@ Os gatilhos nos permitirão acionar nosso pipeline de compilação automaticamen
 13.	Clique na implantação mais recente para obter detalhes do estágio. Se os estágios em andamento, aguarde até a conclusão e verifique se todas as etapas foram concluídas . 
 ![](./images/img21.png)
 
-### PASSO 4 – Use a função manualmente e valide os resultados
+### PASSO 3 – Use a função manualmente e valide os resultados
 
 1.	Vá para o Menu de Navegação (também conhecido como menu "Hamburger" no canto superior esquerdo da página) no OCI Console -> Developer Services
 2.	Selecione Aplicativos no menu Funções.
@@ -241,7 +241,7 @@ Após alguns segundos, o console deve mostrar uma saída json como abaixo.
 ![](./images/img26.png)
  
 
-### LAB 3/3 –  10 minutos (opcional)
+### Desafio 3/3 –  10 minutos (opcional)
 É recomendado liberar os recursos criados para não consumir créditos da sua conta de teste
 
 ### PASSO 1  - Liberando recursos do ORM 
