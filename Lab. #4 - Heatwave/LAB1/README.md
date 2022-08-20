@@ -35,7 +35,7 @@ Depois que a instância for iniciada, ela ficará ativa em alguns minutos. No en
 
 **Nota**: Nesta fase, aprendemos como criar o MySQL Database System. No entanto, o HeatWave Engine ainda está desabilitado. Para habilitar o mecanismo HeatWave, prosseguiremos para o próximo laboratório.
 
-[Retornar](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave)
+[Retornar](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave)
 
-[Avançar para o Lab 2](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB2)
+[Avançar para o Lab 2](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave/LAB2)
 
