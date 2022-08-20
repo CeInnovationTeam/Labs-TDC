@@ -1,8 +1,8 @@
-## Carregando os dados no MySQL HeatWave Cluster Engine
+## Carregue os dados no MySQL HeatWave Cluster Engine
 
 Este laboratório orientará você nas etapas para fazer upload de dados no HeatWave Cluster no MySQL Database System que habilitamos no Laboratório 2.
 
-## 1. Acesando a VM
+## 1. Acesse a VM
 
 O primeiro passo é acessar a VM, para fazer isso basta abrir o Git Bash e digitar o seguinte comando:
 
@@ -50,9 +50,9 @@ Após a execução bem-sucedida do código acima, você verá o carregamento de 
 
 Agora você pode prosseguir para o próximo laboratório.
 
-[Retornar para o LAB3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB3)
+[Retornar para o LAB3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave/LAB3)
 
-[Avançar para o LAB5](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB5)
+[Avançar para o LAB5](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave/LAB5)
 
 
 
