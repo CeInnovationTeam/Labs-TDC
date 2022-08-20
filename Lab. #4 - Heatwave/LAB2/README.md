@@ -22,9 +22,9 @@ Agora, na seção de recursos, clique na seção “Endpoint” e anote o endere
 
 **Nota:** Nesta fase temos nosso MySQL Database System Ativo e o HeatWave Cluster também está habilitado.
 
-[Retornar para o Lab1](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB1)
+[Retornar para o Lab1](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave/LAB1)
 
-[Avançar para o LAb3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB3)
+[Avançar para o LAb3](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave/LAB3)
 
 
 
