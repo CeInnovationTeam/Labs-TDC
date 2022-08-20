@@ -1,13 +1,13 @@
-﻿## Criando sua Function e configurando ambiente de Cloud Shell
+﻿## Desafio 02 - Crie sua Function e configure o ambiente de Cloud Shell
 
- Nesse laboratório criaremos nossa primeira aplicação na plataforma functions, onde faremos o deploy da função responsável por coletar e enviar o conteúdo de um arquivo em object storage. Também utilizaremos o recurso de Cloud Shell para gerenciar/testar nossa função.
+ O objetivo desse desafio é criar nossa primeira aplicação na plataforma functions, onde faremos o deploy da função responsável por coletar e enviar o conteúdo de um arquivo em object storage. Também utilizaremos o recurso de Cloud Shell para gerenciar/testar nossa função.
  Para essa tarefa utilizaremos os seguintes recursos:
  
  - **Oracle Functions:** [https://docs.oracle.com/pt-br/iaas/Content/Functions/Concepts/functionshowitworks.htm](https://docs.oracle.com/pt-br/iaas/Content/Functions/Concepts/functionshowitworks.htm)
  - **Cloud Shell:** [https://docs.oracle.com/pt-br/iaas/Content/API/Concepts/cloudshellintro.htm](https://docs.oracle.com/pt-br/iaas/Content/API/Concepts/cloudshellintro.htm)
  
 
-#### Coletando Informações Necessárias
+#### Colete as Informações Necessárias
 1. No canto direito superior clique no **icone de perfil**, e em seguida selecione **seu usuário**, conforme imagem abaixo:
 
 ![](./IMG/001-LAB2.PNG)
