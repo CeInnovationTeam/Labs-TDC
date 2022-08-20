@@ -1,4 +1,4 @@
-# Labs-TDC
+# Desafios-TDC
 Repositório com todos os laboratórios apresentados no TDC 
 
 Dias 22/08/2022 a 24/08/2022 
