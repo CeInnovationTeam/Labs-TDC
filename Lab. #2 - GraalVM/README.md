@@ -1,4 +1,4 @@
-## Lab. #2 - GraalVM
+## Desafio 02 - GraalVM
 - [Criando VCN e Compute Instace (Oracle Linux 8)](/README.md#passo-1---crie-a-virtual-cloud-network-vcn-e-uma-compute-instance-com-a-imagem-pré-criada-do-oracle-linux-8-)
 
 - [Instalando o GraalVM Enterprise Oracle Linux](/README.md#passo--2-instale-o-graalvm-enterprise-oracle-linux)
