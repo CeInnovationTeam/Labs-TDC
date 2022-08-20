@@ -1,4 +1,4 @@
-## Ativando o cluster HeatWave no sistema de banco de dados MySQL
+## Ative o cluster HeatWave no sistema de banco de dados MySQL
 
 Neste laboratório você habilitará o HeatWave Cluster no MySQL Database System que criamos no Laboratório 1.
 
