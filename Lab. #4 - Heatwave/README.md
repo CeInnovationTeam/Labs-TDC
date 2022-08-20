@@ -8,4 +8,4 @@ O HeatWave é um mecanismo de processamento de consultas distribuído, escaláve
 ##  Arquitetura HeatWave
 ![_](./Images/heatwave_architecture.PNG)
 
-[Desafio 1 - Crie o MySQL Database System na Oracle Cloud](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%235%20-%20Heatwave/LAB1)
+[Desafio 1 - Crie o MySQL Database System na Oracle Cloud](https://github.com/CeInnovationTeam/Labs-TDC/tree/main/Lab.%20%234%20-%20Heatwave/LAB1)
