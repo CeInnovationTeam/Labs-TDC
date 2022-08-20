@@ -11,7 +11,7 @@
 
 
 
-### PASSO 1 - crie a Virtual Cloud Network (VCN) e uma Compute Instance com a imagem pré-criada do Oracle Linux 8. 💻
+### Parte 1 - Crie a Virtual Cloud Network (VCN) e uma Compute Instance com a imagem pré-criada do Oracle Linux 8. 💻
 
 1. Acesse o menu OCI > Rede; 
 
@@ -41,8 +41,8 @@
 
 
 
-### PASSO  2: Instale o GraalVM Enterprise Oracle Linux 🟢
-Nesta tarefa, você instalará o GraalVM Enterprise no Oracle Linux e o definirá como um tempo de execução Java padrão.
+### Parte  2: Instale o GraalVM Enterprise Oracle Linux 🟢
+Nesta tarefa, você deve instalar o GraalVM Enterprise no Oracle Linux e o definir como um tempo de execução Java padrão.
 
 1. Para uma instalação conveniente, os RPMs do GraalVM Enterprise estão disponíveis no repositório Oracle Linux YUM, o que significa que os usuários do OCI podem instalar o GraalVM Enterprise em suas instâncias de nuvem usando o yum — um utilitário de gerenciamento de pacotes para os sistemas operacionais Linux.
 
@@ -73,7 +73,7 @@ Nesta tarefa, você instalará o GraalVM Enterprise no Oracle Linux e o definir�
 
 
 
-### PASSO 3 -  adicione recursos adicionais do GraalVM Enterprise (imagem nativa) ➕
+### Parte 3 -  adicione recursos adicionais do GraalVM Enterprise (imagem nativa) ➕
 
 1. O GraalVM Enterprise é fornecido com componentes principais (para salvar o tamanho do arquivo) e pode ser estendido com mais recursos sob demanda. Por exemplo, você pode instalar a imagem nativa, o runtime do Node.js, a cadeia de ferramentas LLVM etc. Verifique a documentação do produto para obter mais informações sobre os recursos disponíveis.
 
@@ -105,7 +105,7 @@ Nesta tarefa, você instalará o GraalVM Enterprise no Oracle Linux e o definir�
 
 10. Agora você pode começar a usar o utilitário native-image para transformar seu aplicativo Java em um executável Linux nativo. A execução de um aplicativo Java como um executável nativo fornece inicialização instantânea, menor consumo de CPU e memória, tornando-o um bom candidato para implantações em nuvem.
 
-### PASSO 4: atualizar uma instalação existente do GraalVM Enterprise 🆙
+### Parte 4: atualizar uma instalação existente do GraalVM Enterprise 🆙
 
 O gerenciador de pacotes yum para Oracle Linux pode ser usado para atualizar uma instalação existente do GraalVM Enterprise ou substituí-la por outra versão. Nesta tarefa, você atualizará o GraalVM Enterprise da versão 21.x para 22.x e substituirá a distribuição do Java 11 pelo GraalVM Enterprise for Java 17.
 
@@ -132,7 +132,6 @@ O gerenciador de pacotes yum para Oracle Linux pode ser usado para atualizar uma
     
 5. O comando yum upgrade pode ser usado para atualizar na linha do pacote do mesmo ano, por exemplo, para atualizar do GraalVM Enterprise 22.0.0 para a versão 22.0.1 quando este pacote RPM estiver disponível:
     - *sudo yum upgrade graalvm22-ee-17-jdk*
+* Ele atualizará todo o sistema e removerá a instalação obsoleta do GraalVM Enterprise.
 
-6. le atualizará todo o sistema e removerá a instalação obsoleta do GraalVM Enterprise.
-
-## 🎊🏆Parabéns! Você concluiu este laboratório com sucesso 🏆🎊
+## 🎊🏆Parabéns! Você concluiu este desafio com sucesso 🏆🎊
