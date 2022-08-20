@@ -1,6 +1,6 @@
-﻿## Criando a Regra de Eventos e testando o funcionamento do fluxo
+﻿## Desafio 01/Parte 3 Criando a Regra de Eventos e testando o funcionamento do fluxo
 
-Nesse laboratório criaremos nossa regra que irá mapear eventos de criação em nosso object storage, e ativará a função que criamos no laboratório anterior.
+Nessa parte do desafio você criará nossa regra que irá mapear eventos de criação em nosso object storage, e ativará a função que criamos no laboratório anterior.
 Para essa tarefa utilizaremos os seguintes recursos:
  
  - **Oracle Events:** [https://docs.oracle.com/pt-br/iaas/Content/Events/Concepts/eventsoverview.htm](https://docs.oracle.com/pt-br/iaas/Content/Events/Concepts/eventsoverview.htm)
