@@ -1,5 +1,5 @@
-﻿## Lab 1 - Preparando o nosso ambiente com Resource Manager
-Nesse laboratório prepararemos a infraestrutura base do workshop, onde criaremos os seguintes serviços:
+﻿## Desafio 1 - Prepare o seu ambiente com Resource Manager!
+Nesse desafio prepararemos a infraestrutura base, onde criaremos os seguintes serviços:
 
  - **Compartimento:** Separação lógica de recursos dentro da cloud. O compartimento tem função fundamental no controle de políticas de acesso, governança, e controle de custos dentro da tenancy:[https://docs.oracle.com/pt-br/iaas/Content/Identity/Tasks/managingcompartments.htm](https://docs.oracle.com/pt-br/iaas/Content/Identity/Tasks/managingcompartments.htm)
  - **Resource Manager Stack:** Stack de códigos de terraform que serão usados no workshop:[https://docs.oracle.com/pt-br/iaas/Content/ResourceManager/Concepts/resourcemanager.htm](https://docs.oracle.com/pt-br/iaas/Content/ResourceManager/Concepts/resourcemanager.htm)
@@ -10,7 +10,7 @@ Nesse laboratório prepararemos a infraestrutura base do workshop, onde criaremo
  - **Object Storage:** [https://docs.oracle.com/pt-br/iaas/Content/Object/Concepts/objectstorageoverview.htm#Overview_of_Object_Storage](https://docs.oracle.com/pt-br/iaas/Content/Object/Concepts/objectstorageoverview.htm#Overview_of_Object_Storage)
  - **Container Registry:** Registro de containers similiar ao Docker Hub.[https://docs.oracle.com/pt-br/iaas/Content/Registry/Concepts/registryoverview.htm](https://docs.oracle.com/pt-br/iaas/Content/Registry/Concepts/registryoverview.htm)
  
-#### Criando o compartimento
+#### Crie o compartimento:
 1. Acesse a console da cloud: [https://www.oracle.com/cloud/sign-in.html](https://www.oracle.com/cloud/sign-in.html)
 
 ![](./IMG/001-LAB1.PNG)
